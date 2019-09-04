@@ -17,4 +17,4 @@
 
 * [command line (Mac OS X)](https://github.com/oizin/links-cheatsheets/blob/master/commandOSX.md)
 
-### Others creation
+### Created by others
