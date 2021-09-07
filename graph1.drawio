@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T01:00:41.600Z" agent="5.0 (Windows)" etag="A5enREWyDjZ_wdnpiBOR" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T01:09:47.678Z" agent="5.0 (Windows)" etag="OwrggM_f3TnYC8xySRt3" version="15.1.0" type="github">
   <diagram id="jBadv7jzQk303qV6k1zK" name="Page-1">
     <mxGraphModel dx="1648" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -850,8 +850,8 @@
         <mxCell id="RxjEodVqocuGxgpkdKOe-32" value="(B) Continuous time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;opacity=90;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="323.5" y="100" width="126.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RxjEodVqocuGxgpkdKOe-33" value="(C) Numerical solution of neural ODE IVP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;opacity=90;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="160" y="360" width="262.5" height="20" as="geometry" />
+        <mxCell id="RxjEodVqocuGxgpkdKOe-33" value="(C) Numerical solution of neural ODE initial value problem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;opacity=90;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="177.5" y="340" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vnLwDHoqT5jpjLEuEO11-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="R_-WvSaThvEhrNufHfvD-58" target="R_-WvSaThvEhrNufHfvD-58">
           <mxGeometry relative="1" as="geometry" />
